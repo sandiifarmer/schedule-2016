@@ -1,0 +1,9 @@
+{
+  "name": "schedule-2016",
+  "version": "0.0.1",
+  "devDependencies": {
+  	"uglify-js": "~2.6.2",
+    "clean-css" : "~3.4.9",
+    "fnv-plus"	: "~1.2.12"
+  }
+}
